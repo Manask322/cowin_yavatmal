@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cowin_yavatmal/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cowin_yavatmal/static/js/main.bb402b2a.chunk.js",
+    "main.js.map": "/cowin_yavatmal/static/js/main.bb402b2a.chunk.js.map",
+    "runtime-main.js": "/cowin_yavatmal/static/js/runtime-main.f67384ad.js",
+    "runtime-main.js.map": "/cowin_yavatmal/static/js/runtime-main.f67384ad.js.map",
+    "static/js/2.cd7e3f83.chunk.js": "/cowin_yavatmal/static/js/2.cd7e3f83.chunk.js",
+    "static/js/2.cd7e3f83.chunk.js.map": "/cowin_yavatmal/static/js/2.cd7e3f83.chunk.js.map",
+    "static/js/3.996f5e1e.chunk.js": "/cowin_yavatmal/static/js/3.996f5e1e.chunk.js",
+    "static/js/3.996f5e1e.chunk.js.map": "/cowin_yavatmal/static/js/3.996f5e1e.chunk.js.map",
+    "index.html": "/cowin_yavatmal/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cowin_yavatmal/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.cd7e3f83.chunk.js.LICENSE.txt": "/cowin_yavatmal/static/js/2.cd7e3f83.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cowin_yavatmal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67384ad.js",
+    "static/js/2.cd7e3f83.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bb402b2a.chunk.js"
+  ]
+}
